@@ -6,7 +6,7 @@ Currently, I am:
 - 🔭 working on refactoring a research C++ codebase for increased maintainability and testability
 - 🦀 using Rust more and more and loving it!
 - 🌎 doing full stack web stuff with Next.js and FastAPI
-- 📖 writing about my tech adventures at [tom.catshoek.dev](tom.catshoek.dev)
+- 📖 writing about my tech adventures at [tom.catshoek.dev](https://tom.catshoek.dev)
 - ⚡ building LED Matrices with KiCAD, and writing software to drive them!
 
 <!--
