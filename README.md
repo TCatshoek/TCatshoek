@@ -3,10 +3,10 @@
 I'm Tom! I like building all kinds of stuff! For my day job I mostly focus on software, but I'm also interested in hardware (hacking), electronics, and CAD.
 
 Currently, I am:
-- 🔭 working on refactoring a research C++ codebase for increased maintainability and testability
-- 🦀 using Rust more and more and loving it!
+- 😎 working on HPC scheduling systems 
+- 🦀 still trying to write more Rust!
 - 🌎 doing full stack web stuff with Next.js and FastAPI
-- 📖 writing about my tech adventures at [tom.catshoek.dev](https://tom.catshoek.dev)
+- 📖 not writing enough about my tech adventures at [tom.catshoek.dev](https://tom.catshoek.dev)
 - ⚡ building LED Matrices with KiCAD, and writing software to drive them!
 
 <!--
